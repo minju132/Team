@@ -4,3 +4,4 @@
 4. git push origin main : 원본 레파지토리의 메인 브랜치에 편재 저장된 내용을 업로드한다.
 5. 깃 허브 튜토리얼 [링크](https://github.com/KennethanCeyer/tutorial-git)
 6. 잘 된건가?
+7. git 
