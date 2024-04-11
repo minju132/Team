@@ -5,4 +5,4 @@
 5. 깃 허브 튜토리얼 [링크](https://github.com/KennethanCeyer/tutorial-git)
 6. 잘 된건가?
 
-잘 된것 같습니다!!
+잘 된것 같습니다 !!
